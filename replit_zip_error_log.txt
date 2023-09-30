@@ -1,0 +1,17 @@
+{"error":"read /home/runner/Haruka-Md-1/.git/index: input/output error","level":"error","msg":"unable to write file .git/index","time":"2023-09-30T01:07:57Z"}
+{"error":"read /home/runner/Haruka-Md-1/.git/objects/pack/pack-ff1baaf6994db36bdfaeb46964dc6a04c237efc9.pack: input/output error","level":"error","msg":"unable to write file .git/objects/pack/pack-ff1baaf6994db36bdfaeb46964dc6a04c237efc9.pack","time":"2023-09-30T01:07:57Z"}
+{"error":"read /home/runner/Haruka-Md-1/Haruka.jpg: input/output error","level":"error","msg":"unable to write file Haruka.jpg","time":"2023-09-30T01:07:57Z"}
+{"error":"read /home/runner/Haruka-Md-1/command/case.js: input/output error","level":"error","msg":"unable to write file command/case.js","time":"2023-09-30T01:07:57Z"}
+{"error":"read /home/runner/Haruka-Md-1/database/user/hasil_buruan.json: input/output error","level":"error","msg":"unable to write file database/user/hasil_buruan.json","time":"2023-09-30T01:07:57Z"}
+{"error":"read /home/runner/Haruka-Md-1/index.js: input/output error","level":"error","msg":"unable to write file index.js","time":"2023-09-30T01:07:57Z"}
+{"error":"read /home/runner/Haruka-Md-1/media/1694092062079.jpg: input/output error","level":"error","msg":"unable to write file media/1694092062079.jpg","time":"2023-09-30T01:07:57Z"}
+{"error":"read /home/runner/Haruka-Md-1/media/1694092066447.jpg: input/output error","level":"error","msg":"unable to write file media/1694092066447.jpg","time":"2023-09-30T01:07:57Z"}
+{"error":"read /home/runner/Haruka-Md-1/media/1694302001586.mp4: input/output error","level":"error","msg":"unable to write file media/1694302001586.mp4","time":"2023-09-30T01:07:57Z"}
+{"error":"read /home/runner/Haruka-Md-1/media/1695515758354.jpg: input/output error","level":"error","msg":"unable to write file media/1695515758354.jpg","time":"2023-09-30T01:07:57Z"}
+{"error":"read /home/runner/Haruka-Md-1/media/1695523197083.jpg: input/output error","level":"error","msg":"unable to write file media/1695523197083.jpg","time":"2023-09-30T01:07:57Z"}
+{"error":"read /home/runner/Haruka-Md-1/media/1695627373732.jpg: input/output error","level":"error","msg":"unable to write file media/1695627373732.jpg","time":"2023-09-30T01:07:57Z"}
+{"error":"read /home/runner/Haruka-Md-1/media/1695709075162.jpg: input/output error","level":"error","msg":"unable to write file media/1695709075162.jpg","time":"2023-09-30T01:07:57Z"}
+{"error":"read /home/runner/Haruka-Md-1/media/1695824733440.jpg: input/output error","level":"error","msg":"unable to write file media/1695824733440.jpg","time":"2023-09-30T01:07:57Z"}
+{"error":"read /home/runner/Haruka-Md-1/node_modules/.package-lock.json: input/output error","level":"error","msg":"unable to write file node_modules/.package-lock.json","time":"2023-09-30T01:07:58Z"}
+{"error":"lstat /home/runner/Haruka-Md-1/node_modules/@adiwajshing/baileys/README.md: input/output error","level":"error","msg":"unable to stat node_modules/@adiwajshing/baileys/README.md","time":"2023-09-30T01:07:58Z"}
+{"error":"lstat /home/runner/Haruka-Md-1/node_modules/@adiwajshing/baileys/WAProto: input/output error","level":"error","msg":"unable to stat node_modules/@adiwajshing/baileys/WAProto","time":"2023-09-30T01:07:58Z"}
